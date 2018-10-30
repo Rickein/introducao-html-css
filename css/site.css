@@ -17,7 +17,7 @@ h1 {
 .titulo-principal {
     font-size: 60px;;
     text-align: center;
-    background-color: #851944;
+    background-color: #0fa723;
     color: #FFF;
     padding: 25px;
     border-bottom: 10px solid #000;
@@ -29,7 +29,7 @@ h1 {
 }
 
 main a {
-    color: #851944;
+    color:#8B0000;
 }
 
 p {
@@ -39,7 +39,7 @@ p {
 
 .navegacao-site {
     text-align: center;
-    background-color: #3C1D3D;
+    background-color: #66CDAA;
     color: #F2FFFC;
     padding: 20px;
 }
